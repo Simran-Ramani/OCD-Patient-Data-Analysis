@@ -2,7 +2,6 @@
 This project analyzes a clinical dataset of patients diagnosed with Obsessive–Compulsive Disorder (OCD). The goal is to understand patient demographics, comorbidities, symptom, patterns, and treatment outcomes using SQL for data exploration and Power BI for interactive visualization.
 
 The dataset includes demographic details (age, gender, ethnicity, education), clinical features (obsession & compulsion types, Y-BOCS severity scores, comorbidities), and 
-
 treatment information (previous diagnoses, medications).
 
 # Tools & Technologies
